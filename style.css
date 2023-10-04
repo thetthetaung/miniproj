@@ -104,3 +104,21 @@ body{
     text-decoration: none;
     padding:10px;
 }
+#contact-body{
+    background-color: #b2ff00;
+}
+
+.form-header{
+    background-color: black;
+    color:white;
+    width: 50%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin:30px auto 0px auto;
+    text-align: center;
+}
+.form-body{
+    width: 50%;
+   margin:0 auto;
+   background-color: #eff6de;
+}
